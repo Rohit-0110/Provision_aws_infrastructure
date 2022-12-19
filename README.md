@@ -1,12 +1,12 @@
 # Provision_aws_infrastructure
-Create custom VPC
+1) Create custom VPC
 
-Create custom Subnet
+2) Create custom Subnet
 
-Create Route Table & Internet Gateway
+3) Create Route Table & Internet Gateway
 
-Provision EC2 instance
+4) Provision EC2 instance
 
-Deploy nginx Docker Container
+5) Deploy nginx Docker Container
 
-Create security group(Firewall)
+6) Create security group(Firewall)
